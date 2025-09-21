@@ -1,0 +1,3 @@
+ALTER TABLE CUSTOMERS;
+DROP INDEX idxPhone on Customers
+
